@@ -1,0 +1,58 @@
+[
+{
+"name": "Vito Walter Anelli",
+"image": "images/team/anelli.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/anelli"
+},
+{
+"name": "Tommaso Di Noia",
+"image": "images/team/dinoia.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/dinoia"
+},
+{
+"name": "Pasquale Lops",
+"image": "images/team/lops.jpg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.Lops"
+},
+{
+"name": "Cataldo Musto",
+"image": "images/team/musto.jpg",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.CataldoMusto"
+},
+{
+"name": "Markus Zanker",
+"image": "https://webservices.scientificnet.org/rest/uisdata/api/v1/people/3466/image?w=260&h=260",
+"institutionurl": "https://www.unibz.it/",
+"institution": "Free University of Bozen-Bolzano",
+"personalpage": "https://www.unibz.it/en/faculties/computer-science/academic-staff/person/3466-markus-zanker"
+},
+{
+"name": "Pierpaolo Basile",
+"image": "http://www.di.uniba.it/~swap/basilepp/foto_profilo.png",
+"institutionurl": "https://www.uniba.it/",
+"institution": "University of Bari Aldo Moro",
+"personalpage": "http://www.di.uniba.it/~swap/index.php?n=Membri.Basile"
+},
+{
+"name": "Derek Bridge",
+"image": "images/team/bridge.jpg",
+"institutionurl": "https://www.ucc.ie/en/compsci/",
+"institution": "University College Cork, Ireland",
+"personalpage": "http://www.cs.ucc.ie/~dgb/"
+},
+{
+"name": "Fedelucio Narducci",
+"image": "images/team/narducci.jpg",
+"institutionurl": "https://www.poliba.it/",
+"institution": "Polytechnic University of Bari",
+"personalpage": "http://sisinflab.poliba.it/narducci"
+}
+]
